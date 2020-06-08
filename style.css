@@ -8,8 +8,9 @@ h2 {
     font-weight: bold;
 }
 
-
-.big-box {
-    width: 40%;
-    margin-left: 5%;
+.navbar-navbar-expand-lg-navbar-dark-bg-dark {
+    margin-top: 2rem;
+}
+.container {
+    margin-top: 2rem;
 }
